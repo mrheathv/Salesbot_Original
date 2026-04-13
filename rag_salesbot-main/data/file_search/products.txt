@@ -1,0 +1,34 @@
+product_id: 1
+product: GTX Basic
+series: GTX
+sales_price: 550
+
+product_id: 2
+product: GTX Pro
+series: GTX
+sales_price: 4821
+
+product_id: 3
+product: MG Special
+series: MG
+sales_price: 55
+
+product_id: 4
+product: MG Advanced
+series: MG
+sales_price: 3393
+
+product_id: 5
+product: GTX Plus Pro
+series: GTX
+sales_price: 5482
+
+product_id: 6
+product: GTX Plus Basic
+series: GTX
+sales_price: 1096
+
+product_id: 7
+product: GTK 500
+series: GTK
+sales_price: 26768
