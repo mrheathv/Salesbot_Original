@@ -1,0 +1,849 @@
+account_id: 1000
+account: Acme Corporation
+sector: technolgy
+year_established: 1996
+revenue: 1100.04
+employees: 2822
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.586206897
+
+account_id: 1001
+account: Betasoloin
+sector: medical
+year_established: 1999
+revenue: 251.41
+employees: 495
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.62962963
+
+account_id: 1002
+account: Betatech
+sector: medical
+year_established: 1986
+revenue: 647.18
+employees: 1185
+office_location: Kenya
+subsidiary_of: None
+propensity_to_buy: 0.61627907
+
+account_id: 1003
+account: Bioholding
+sector: medical
+year_established: 2012
+revenue: 587.34
+employees: 1356
+office_location: Philipines
+subsidiary_of: None
+propensity_to_buy: 0.588235294
+
+account_id: 1004
+account: Bioplex
+sector: medical
+year_established: 1991
+revenue: 326.82
+employees: 1016
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.673913043
+
+account_id: 1005
+account: Blackzim
+sector: retail
+year_established: 2009
+revenue: 497.11
+employees: 1588
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.577464789
+
+account_id: 1006
+account: Bluth Company
+sector: technolgy
+year_established: 1993
+revenue: 1242.32
+employees: 3027
+office_location: United States
+subsidiary_of: Acme Corporation
+propensity_to_buy: 0.583333333
+
+account_id: 1007
+account: Bubba Gump
+sector: software
+year_established: 2002
+revenue: 987.39
+employees: 2253
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.666666667
+
+account_id: 1008
+account: Cancity
+sector: retail
+year_established: 2001
+revenue: 718.62
+employees: 2448
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.591397849
+
+account_id: 1009
+account: Cheers
+sector: entertainment
+year_established: 1993
+revenue: 4269.9
+employees: 6472
+office_location: United States
+subsidiary_of: Massive Dynamic
+propensity_to_buy: 0.633333333
+
+account_id: 1010
+account: Codehow
+sector: software
+year_established: 1998
+revenue: 2714.9
+employees: 2641
+office_location: United States
+subsidiary_of: Acme Corporation
+propensity_to_buy: 0.615384615
+
+account_id: 1011
+account: Condax
+sector: medical
+year_established: 2017
+revenue: 4.54
+employees: 9
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.660377358
+
+account_id: 1012
+account: Conecom
+sector: technolgy
+year_established: 2005
+revenue: 1520.66
+employees: 1806
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.613636364
+
+account_id: 1013
+account: Dalttechnology
+sector: software
+year_established: 2013
+revenue: 98.79
+employees: 96
+office_location: United States
+subsidiary_of: Bubba Gump
+propensity_to_buy: 0.704918033
+
+account_id: 1014
+account: dambase
+sector: marketing
+year_established: 1995
+revenue: 2173.98
+employees: 2928
+office_location: United States
+subsidiary_of: Inity
+propensity_to_buy: 0.593406593
+
+account_id: 1015
+account: Domzoom
+sector: entertainment
+year_established: 1998
+revenue: 217.87
+employees: 551
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.679487179
+
+account_id: 1016
+account: Doncon
+sector: technolgy
+year_established: 2010
+revenue: 587.72
+employees: 1501
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.589285714
+
+account_id: 1017
+account: Donquadtech
+sector: technolgy
+year_established: 1992
+revenue: 1712.68
+employees: 3194
+office_location: United States
+subsidiary_of: Acme Corporation
+propensity_to_buy: 0.714285714
+
+account_id: 1018
+account: Dontechi
+sector: software
+year_established: 1982
+revenue: 4618.0
+employees: 10083
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.598290598
+
+account_id: 1019
+account: Donware
+sector: marketing
+year_established: 1999
+revenue: 1197.44
+employees: 2570
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.555555556
+
+account_id: 1020
+account: Fasehatice
+sector: retail
+year_established: 1990
+revenue: 4968.91
+employees: 7523
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.604938272
+
+account_id: 1021
+account: Faxquote
+sector: telecommunications
+year_established: 1995
+revenue: 1825.82
+employees: 5595
+office_location: United States
+subsidiary_of: Sonron
+propensity_to_buy: 0.631578947
+
+account_id: 1022
+account: Finhigh
+sector: finance
+year_established: 2006
+revenue: 1102.43
+employees: 1759
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.580645161
+
+account_id: 1023
+account: Finjob
+sector: employment
+year_established: 1988
+revenue: 2059.9
+employees: 3644
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.703703704
+
+account_id: 1024
+account: Funholding
+sector: finance
+year_established: 1991
+revenue: 2819.5
+employees: 7227
+office_location: United States
+subsidiary_of: Golddex
+propensity_to_buy: 0.595959596
+
+account_id: 1025
+account: Ganjaflex
+sector: retail
+year_established: 1995
+revenue: 5158.71
+employees: 17479
+office_location: Japan
+subsidiary_of: None
+propensity_to_buy: 0.613333333
+
+account_id: 1026
+account: Gekko & Co
+sector: retail
+year_established: 1990
+revenue: 2520.83
+employees: 3502
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.705882353
+
+account_id: 1027
+account: Genco Pura Olive Oil Company
+sector: retail
+year_established: 2007
+revenue: 894.33
+employees: 1635
+office_location: Italy
+subsidiary_of: None
+propensity_to_buy: 0.620689655
+
+account_id: 1028
+account: Globex Corporation
+sector: technolgy
+year_established: 2000
+revenue: 1223.72
+employees: 2497
+office_location: Norway
+subsidiary_of: None
+propensity_to_buy: 0.588235294
+
+account_id: 1029
+account: Gogozoom
+sector: telecommunications
+year_established: 2007
+revenue: 86.68
+employees: 187
+office_location: United States
+subsidiary_of: Sonron
+propensity_to_buy: 0.698630137
+
+account_id: 1030
+account: Golddex
+sector: finance
+year_established: 2008
+revenue: 52.5
+employees: 165
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.568965517
+
+account_id: 1031
+account: Goodsilron
+sector: marketing
+year_established: 2000
+revenue: 2952.73
+employees: 5107
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.738636364
+
+account_id: 1032
+account: Green-Plus
+sector: services
+year_established: 2003
+revenue: 692.19
+employees: 1922
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.569444444
+
+account_id: 1033
+account: Groovestreet
+sector: retail
+year_established: 2003
+revenue: 223.8
+employees: 299
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.636363636
+
+account_id: 1034
+account: Hatfan
+sector: services
+year_established: 1982
+revenue: 792.46
+employees: 1299
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.565789474
+
+account_id: 1035
+account: Hottechi
+sector: technolgy
+year_established: 1997
+revenue: 8170.38
+employees: 16499
+office_location: Korea
+subsidiary_of: None
+propensity_to_buy: 0.575129534
+
+account_id: 1036
+account: Initech
+sector: telecommunications
+year_established: 1994
+revenue: 6395.05
+employees: 20275
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.587301587
+
+account_id: 1037
+account: Inity
+sector: marketing
+year_established: 1986
+revenue: 2403.58
+employees: 8801
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.68
+
+account_id: 1038
+account: Isdom
+sector: medical
+year_established: 2002
+revenue: 3178.24
+employees: 4540
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.580357143
+
+account_id: 1039
+account: Iselectrics
+sector: technolgy
+year_established: 2011
+revenue: 527.11
+employees: 1428
+office_location: United States
+subsidiary_of: Acme Corporation
+propensity_to_buy: 0.657894737
+
+account_id: 1040
+account: J-Texon
+sector: retail
+year_established: 1989
+revenue: 1388.67
+employees: 3583
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.684931507
+
+account_id: 1041
+account: Kan-code
+sector: software
+year_established: 1982
+revenue: 11698.03
+employees: 34288
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.614973262
+
+account_id: 1042
+account: Kinnamplus
+sector: retail
+year_established: 2004
+revenue: 702.72
+employees: 1831
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.64516129
+
+account_id: 1043
+account: Konex
+sector: technolgy
+year_established: 1980
+revenue: 7708.38
+employees: 13756
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.631578947
+
+account_id: 1044
+account: Konmatfix
+sector: marketing
+year_established: 1985
+revenue: 375.43
+employees: 1190
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.65625
+
+account_id: 1045
+account: Labdrill
+sector: medical
+year_established: 1985
+revenue: 2741.37
+employees: 9226
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.647887324
+
+account_id: 1046
+account: Lexiqvolax
+sector: medical
+year_established: 2004
+revenue: 1618.89
+employees: 3889
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.590909091
+
+account_id: 1047
+account: Massive Dynamic
+sector: entertainment
+year_established: 1989
+revenue: 665.06
+employees: 1095
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.644067797
+
+account_id: 1048
+account: Mathtouch
+sector: marketing
+year_established: 1984
+revenue: 3027.46
+employees: 9516
+office_location: Jordan
+subsidiary_of: None
+propensity_to_buy: 0.641975309
+
+account_id: 1049
+account: Nam-zim
+sector: services
+year_established: 1987
+revenue: 405.59
+employees: 1179
+office_location: Brazil
+subsidiary_of: Warephase
+propensity_to_buy: 0.615384615
+
+account_id: 1050
+account: Newex
+sector: services
+year_established: 1991
+revenue: 1012.72
+employees: 3492
+office_location: Germany
+subsidiary_of: None
+propensity_to_buy: 0.725490196
+
+account_id: 1051
+account: Ontomedia
+sector: employment
+year_established: 1997
+revenue: 882.12
+employees: 2769
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.607142857
+
+account_id: 1052
+account: Opentech
+sector: finance
+year_established: 1994
+revenue: 355.23
+employees: 853
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.6
+
+account_id: 1053
+account: Plexzap
+sector: retail
+year_established: 2001
+revenue: 2437.85
+employees: 4874
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.635135135
+
+account_id: 1054
+account: Plusstrip
+sector: entertainment
+year_established: 2002
+revenue: 349.81
+employees: 315
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.717391304
+
+account_id: 1055
+account: Plussunin
+sector: retail
+year_established: 2003
+revenue: 1419.98
+employees: 4018
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.604395604
+
+account_id: 1056
+account: Rangreen
+sector: technolgy
+year_established: 1987
+revenue: 2938.67
+employees: 8775
+office_location: Panama
+subsidiary_of: None
+propensity_to_buy: 0.75
+
+account_id: 1057
+account: Rantouch
+sector: telecommunications
+year_established: 1994
+revenue: 1188.42
+employees: 3015
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.584615385
+
+account_id: 1058
+account: Ron-tech
+sector: medical
+year_established: 1992
+revenue: 3922.42
+employees: 6837
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.654205607
+
+account_id: 1059
+account: Rundofase
+sector: technolgy
+year_established: 1983
+revenue: 1008.06
+employees: 1238
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.677083333
+
+account_id: 1060
+account: Scotfind
+sector: software
+year_established: 1996
+revenue: 6354.87
+employees: 16780
+office_location: United States
+subsidiary_of: Bubba Gump
+propensity_to_buy: 0.683673469
+
+account_id: 1061
+account: Scottech
+sector: marketing
+year_established: 2012
+revenue: 45.39
+employees: 100
+office_location: United States
+subsidiary_of: Inity
+propensity_to_buy: 0.623376623
+
+account_id: 1062
+account: Silis
+sector: medical
+year_established: 1994
+revenue: 2818.38
+employees: 6290
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.555555556
+
+account_id: 1063
+account: Singletechno
+sector: retail
+year_established: 1996
+revenue: 2214.94
+employees: 5374
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.692307692
+
+account_id: 1064
+account: Sonron
+sector: telecommunications
+year_established: 1999
+revenue: 1699.85
+employees: 5108
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.630136986
+
+account_id: 1065
+account: Stanredtax
+sector: finance
+year_established: 1987
+revenue: 1698.2
+employees: 3798
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.69
+
+account_id: 1066
+account: Statholdings
+sector: employment
+year_established: 1997
+revenue: 291.27
+employees: 586
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.53125
+
+account_id: 1067
+account: Streethex
+sector: retail
+year_established: 1988
+revenue: 1376.8
+employees: 1165
+office_location: Belgium
+subsidiary_of: None
+propensity_to_buy: 0.605769231
+
+account_id: 1068
+account: Sumace
+sector: retail
+year_established: 2000
+revenue: 167.89
+employees: 493
+office_location: Romania
+subsidiary_of: None
+propensity_to_buy: 0.56097561
+
+account_id: 1069
+account: Sunnamplex
+sector: marketing
+year_established: 2008
+revenue: 894.37
+employees: 1593
+office_location: Poland
+subsidiary_of: None
+propensity_to_buy: 0.661764706
+
+account_id: 1070
+account: The New York Inquirer
+sector: medical
+year_established: 1996
+revenue: 439.21
+employees: 792
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.636363636
+
+account_id: 1071
+account: Toughzap
+sector: retail
+year_established: 1995
+revenue: 332.43
+employees: 799
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.619047619
+
+account_id: 1072
+account: Treequote
+sector: telecommunications
+year_established: 1988
+revenue: 5266.09
+employees: 8595
+office_location: United States
+subsidiary_of: Sonron
+propensity_to_buy: 0.613207547
+
+account_id: 1073
+account: Umbrella Corporation
+sector: finance
+year_established: 1998
+revenue: 2022.14
+employees: 5113
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.623376623
+
+account_id: 1074
+account: Vehement Capital Partners
+sector: finance
+year_established: 1993
+revenue: 646.1
+employees: 883
+office_location: United States
+subsidiary_of: Golddex
+propensity_to_buy: 0.596491228
+
+account_id: 1075
+account: Warephase
+sector: services
+year_established: 1997
+revenue: 2041.73
+employees: 5276
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.693069307
+
+account_id: 1076
+account: Xx-holding
+sector: finance
+year_established: 1993
+revenue: 7537.24
+employees: 20293
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.607594937
+
+account_id: 1077
+account: Xx-zobam
+sector: entertainment
+year_established: 1989
+revenue: 3838.39
+employees: 8274
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.554216867
+
+account_id: 1078
+account: Y-corporation
+sector: employment
+year_established: 1983
+revenue: 2871.35
+employees: 9561
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.635294118
+
+account_id: 1079
+account: Yearin
+sector: retail
+year_established: 2005
+revenue: 2261.05
+employees: 3851
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.642857143
+
+account_id: 1080
+account: Zathunicon
+sector: retail
+year_established: 2010
+revenue: 71.12
+employees: 144
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.653846154
+
+account_id: 1081
+account: Zencorporation
+sector: technolgy
+year_established: 2011
+revenue: 40.79
+employees: 142
+office_location: China
+subsidiary_of: None
+propensity_to_buy: 0.6875
+
+account_id: 1082
+account: Zoomit
+sector: entertainment
+year_established: 1992
+revenue: 324.19
+employees: 978
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.717391304
+
+account_id: 1083
+account: Zotware
+sector: software
+year_established: 1979
+revenue: 4478.47
+employees: 13809
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.671428571
+
+account_id: 1084
+account: Zumgoity
+sector: medical
+year_established: 1984
+revenue: 441.08
+employees: 1210
+office_location: United States
+subsidiary_of: None
+propensity_to_buy: 0.631578947
